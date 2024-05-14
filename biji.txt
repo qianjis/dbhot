@@ -1,0 +1,11 @@
+git init
+git add
+git add .
+git commit -m
+git log
+git reflog
+git reset --hard
+git branch
+git branch fenzhi
+git checkout fenzhi:切换分支
+git merge fenzhi :合并分支
