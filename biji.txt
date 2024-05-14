@@ -9,3 +9,13 @@ git branch
 git branch fenzhi
 git checkout fenzhi:切换分支
 git merge fenzhi :合并分支
+
+
+git remote add origin https:...git
+git push -u origin master
+
+git clone https://github.com/qianjis/dbhot.git
+
+
+
+git pull origin dev
